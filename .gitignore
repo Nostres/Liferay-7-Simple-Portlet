@@ -1,6 +1,6 @@
-Будет удалено .gitignore
-Будет удалено .idea/
-Будет удалено bundle-plugin/bnd.bundle.plugin.iml
-Будет удалено simple-portlet/simple-portlet.iml
-Будет удалено simple-portlet/target/
-Будет удалено simplePortlet.iml
+.gitignore
+.idea/
+bundle-plugin/bnd.bundle.plugin.iml
+simple-portlet/simple-portlet.iml
+simple-portlet/target/
+simplePortlet.iml
