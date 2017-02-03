@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE service-builder PUBLIC "-//Liferay//DTD Service Builder 7.0.0//EN"
+        "http://www.liferay.com/dtd/liferay-service-builder_7_0_0.dtd">
+
+
+<service-builder package-path="com.simple">
+    <entity name="UserView" table="UserView" local-service="true" remote-service="false" data-source="lportal">
+        <column name="id" primary="true" type="long"/>
+        <column name="name" type="String"/>
+        <column name="email" type="String"/>
+    </entity>
+</service-builder>

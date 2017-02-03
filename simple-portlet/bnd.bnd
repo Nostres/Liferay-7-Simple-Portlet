@@ -5,3 +5,5 @@ Bundle-SymbolicName: simple-portlet
 -plugin.bundle: com.liferay.ant.bnd.resource.bundle.ResourceBundleLoaderAnalyzerPlugin
 -plugin.jsp: com.liferay.ant.bnd.jsp.JspAnalyzerPlugin
 -sources: true
+-plugin.service: com.liferay.ant.bnd.service.ServiceAnalyzerPlugin
+-plugin.spring: com.liferay.ant.bnd.spring.SpringDependencyAnalyzerPlugin
